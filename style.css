@@ -35,7 +35,7 @@ body {
 }
 
 .instagram-phone img{
-    height: 50rem;
+    height: 40rem;
 }
 
 .instagram-continue {
@@ -44,7 +44,7 @@ body {
     justify-content: space-around;/*vertical graças ao flex direction qeu invertel os 2*/
     flex-direction: column;
     width: 50%;
-    min-height: 34rem;
+    min-height: 40rem;
 } 
 .group {
     display: flex;
@@ -55,6 +55,7 @@ body {
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
+    
 }
 
 .group:nth-child(1) {
@@ -73,6 +74,7 @@ body {
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
+    margin-bottom: 7px ;
 }
 
 .profile-photo img {
